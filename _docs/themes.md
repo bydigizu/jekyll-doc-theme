@@ -1,11 +1,12 @@
 ---
-title: Themes
+title: Шаблоны
 permalink: /docs/themes/
 ---
 
-By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
-`bootwatch` variable in `_config.yml` file.
-(Don't forget to restart `Jekyll` if you are running locally because the configuration is not re-read upon change.)
+По умолчанию этот сайт использует шаблон `paper`, но вы можете изменить её
+на любую [bootwatch theme](https://bootswatch.com/3/) установив переменную 
+`bootwatch` в файле `_config.yml`. (Не забудьте перезапустить `Jekyll` если
+вы работаете локально, потому что конфигурация не перечитывается при изменении.)
 
 <div class="row">
 
