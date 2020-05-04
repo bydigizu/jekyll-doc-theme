@@ -1,23 +1,23 @@
 # Jekyll Doc Theme
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+Перейдите [the website](https://bydigizu.github.io/jekyll-doc-theme/) для демонстрации и получения детальной информации.
 
-## Running locally
+## Запуск на локальной машине
 
-You need Ruby and gem before starting, then:
+Для начала вам понадобится установленный Ruby и gem, затем:
 
 ```bash
-# install bundler
+# установить bundler
 gem install bundler
 
-# clone the project
+# клонировать проект в локальную папку и перейти в неё
 git clone https://github.com/aksakalli/jekyll-doc-theme.git
 cd jekyll-doc-theme
 
-# install dependencies
+# установить зависимости
 bundle install
 
-# run jekyll with dependencies
+# запустить jekyll с применением зависимостей
 bundle exec jekyll serve
 ```
 
